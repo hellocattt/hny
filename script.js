@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "YAYY as expected I LOVE U SO SO MUCHHH";
+  question.innerHTML = "YAYY as expected.. I LOVE U SO SO MUCHHH! THANKU FOR EVERYTHING LITERALLY EVERY SINGLE THING.. U MEAN THE WHOLE WORLD TO MEE JUST STAY THE SAME AND BE WITH ME ALWAYS THAT'S ALL I WANT FROM U.. AND LET'S CELEBRATE NEXT YEAR TOGETHER LIKE I NEED THAT NEW YEAR KISS FROM U HIHI";
   gif.src =
     "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
